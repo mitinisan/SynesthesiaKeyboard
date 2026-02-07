@@ -1,0 +1,21 @@
+# Jupyter Notebook junk
+.ipynb_checkpoints/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+
+# Virtual Environment (if you use one later)
+venv/
+.env
+
+# User Data (Optional: Keep profiles private)
+assets/profiles/*.json
+#but copy sample profile to not crash
+!assets/profiles/example.json
+
+#BGM files (uploaded just some files to save space)
+assets/bgm/
