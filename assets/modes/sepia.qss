@@ -1,0 +1,116 @@
+/* =======================================================
+   THEME: SEPIA
+   ======================================================= */
+
+/* --- GLOBAL SETTINGS --- */
+QMainWindow, QDialog {
+    background-color: #fdf6e3;
+}
+
+QWidget {
+    color: #5d4037;
+    font-family: 'Hiragino Sans', 'Yu Gothic', sans-serif;
+}
+
+/* --- DIALOG COMPONENTS --- */
+QListWidget {
+    background-color: #fffdf5;
+    border: 2px solid #d2b48c;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #5d4037;
+}
+
+QListWidget::item {
+    padding: 8px;
+    border-bottom: 1px solid #eee8d5;
+}
+
+QListWidget::item:selected {
+    background-color: #d33682;
+    color: #ffffff;
+}
+
+QPushButton[class="btn_action"] {
+    background-color: #d33682;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 14px;
+}
+
+QPushButton[class="btn_action"]:hover {
+    background-color: #b71c1c;
+}
+
+QRadioButton {
+    font-size: 14px;
+    color: #5d4037;
+    spacing: 8px;
+}
+
+/* --- MAIN WINDOW: TOP BAR --- */
+QPushButton[class="topbar"] {
+    background-color: #eee8d5;
+    color: #5d4037;
+    border-radius: 22px;
+    font-weight: bold;
+    border: none;
+}
+
+QPushButton[class="topbar"]:hover {
+    background-color: #e0d8c0;
+}
+
+QPushButton[class="topbar"][active="true"] {
+    background-color: #d33682;
+    color: #ffffff;
+}
+
+/* --- WORKSPACE --- */
+QPushButton[class="thumb"] {
+    border: 2px solid #d2b48c;
+    border-radius: 8px;
+    background-color: #fffdf5;
+}
+QPushButton[class="thumb"]:hover {
+    border: 3px solid #d33682;
+}
+
+QScrollArea[class="dock"] {
+    background-color: transparent;
+    border: none;
+}
+
+/* --- KEYBOARD --- */
+QPushButton[class="colorkey"] {
+    background-color: #fffdf5;
+    border: 1px solid #d2b48c;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+QPushButton[class="colorkey"]:pressed {
+    background-color: #eee8d5;
+}
+
+QPushButton[class="tab"] {
+    background-color: #eee8d5;
+    color: #5d4037;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+QPushButton[class="tab"][active="true"] {
+    background-color: #d33682;
+    color: #ffffff;
+}
+
+QPushButton[class="special"] {
+    background-color: #eee8d5;
+    color: #5d4037;
+    border-radius: 22px;
+    font-weight: bold;
+}
