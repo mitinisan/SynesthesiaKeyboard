@@ -19,3 +19,6 @@ assets/profiles/*.json
 
 #BGM files (uploaded just some files to save space)
 assets/bgm/
+
+#raw sound, BGM and image files
+raw_data/
