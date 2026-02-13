@@ -1,0 +1,24 @@
+# ====================================================
+# SynesthesiaKeyboard - Required Libraries
+# ====================================================
+# 
+# HOW TO INSTALL:
+# 1. Open your terminal (In Cursor: Ctrl + `)
+# 2. Make sure you are in the project folder.
+# 3. Run the following command:
+#
+#    pip install -r requirements.txt
+#
+# ====================================================
+
+# UI and Styling (QSS)
+PyQt5
+
+# Audio and Playback
+pygame
+
+# Music Theory and MIDI Generation
+music21
+
+# Image Processing (Theme quantization and resizing)
+Pillow
