@@ -12,13 +12,13 @@
 # ====================================================
 
 # UI and Styling (QSS)
-PyQt5
+PyQt5==5.15.10
 
 # Audio and Playback
-pygame
+pygame==2.6.1
 
 # Music Theory and MIDI Generation
-music21
+music21==9.9.1
 
 # Image Processing (Theme quantization and resizing)
-Pillow
+pillow==11.1.0

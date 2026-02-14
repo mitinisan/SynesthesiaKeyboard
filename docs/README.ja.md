@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="README.md">🇺🇸 English</a> |
+  <a href="../README.md">🇺🇸 English</a> |
   <a href="README.pt.md">🇧🇷 Português</a> |
   <a href="README.ja.md">🇯🇵 日本語</a>
 </div>
@@ -92,3 +92,8 @@ SynesthesiaKeyboard/
 全体としてこのアプリケーションは目的を果たしていますが、完璧ではなく、修正すべき一連の欠陥があります。
 もし本当に私に直してほしいなら、チャイでも奢ってくれたら相談に乗ります。
 分解してデバッグすることで多くのことを学べるので、友よ、幸運を祈ります！
+
+
+## 📝 ライセンス
+
+このプロジェクトは [MIT ライセンス](LICENSE) に基づいてライセンスされています。詳細は LICENSE ファイルをご覧ください。

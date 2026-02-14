@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="README.md">🇺🇸 English</a> |
+  <a href="../README.md">🇺🇸 English</a> |
   <a href="README.pt.md">🇧🇷 Português</a> |
   <a href="README.ja.md">🇯🇵 日本語</a>
 </div>
@@ -96,3 +96,8 @@ Certifique-se de ter instalado [Python 3](https://www.python.org/downloads/) e `
 No geral a apliação cumpre o seu propósito, mas não é perfeito e tem uma série de falhas que precisam ser reparadas.
 Se você quiser muito que eu arrume, me paga um tchai e a gente conversa.
 Debulhando e debugando você aprende um monte de coisa, então meu amigo | minha amiga: boa sorte!
+
+
+## 📝 Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE) - consulte o arquivo LICENSE para obter detalhes.

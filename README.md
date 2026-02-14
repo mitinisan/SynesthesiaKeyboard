@@ -1,7 +1,7 @@
 <div align="center">
   <a href="README.md">🇺🇸 English</a> |
-  <a href="README.pt.md">🇧🇷 Português</a> |
-  <a href="README.ja.md">🇯🇵 日本語</a>
+  <a href="docs/README.pt.md">🇧🇷 Português</a> |
+  <a href="docs/README.ja.md">🇯🇵 日本語</a>
 </div>
 
 ---
@@ -92,3 +92,8 @@ Make sure you have [Python 3](https://www.python.org/downloads/) and `git` insta
 Overall the application fulfills its purpose, but it's not perfect and has a series of flaws that need to be fixed.
 If you really want me to fix them, buy me a chai and we can talk.
 By tearing it down and debugging you learn a lot, so my friend: good luck!
+
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
