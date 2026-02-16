@@ -8,7 +8,7 @@
 
 # 🎹 共感覚キーボード (Synesthesia Keyboard)
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](../assets/screenshot.png)
 
 書記素色覚（文字に色がついて見える共感覚）を持つ小さな人たちのためのバーチャルキーボード。
 

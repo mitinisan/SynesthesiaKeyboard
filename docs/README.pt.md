@@ -8,7 +8,7 @@
 
 # 🎹 Teclado Sinestésico
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](../assets/screenshot.png)
 
 Um teclado virtual para pessoas pequenas com sinestesia grafema-cor.
 
